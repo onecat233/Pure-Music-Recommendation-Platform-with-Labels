@@ -107,10 +107,3 @@ npm run serve
 ### Project Status
 - Java Final Project
 - Waiting to be scored
-
-### Maintainers
-- Wenqing Cai (wc2773@nyu.edu)
-- Yutong Tian (yt3139@nyu.edu)
-
-### Support
-For any questions or issues, please contact the project maintainers via email.
