@@ -28,7 +28,7 @@ Pure Music Recommendation Platform is a comprehensive music recommendation syste
 1. Create a new database named `music`
 2. Default credentials:
    - Username: `root`
-   - Password: `cwq030120`
+   - Password: `your password`
 - Replace these values as per your MySQL settings.
    
 #### Create Required Tables

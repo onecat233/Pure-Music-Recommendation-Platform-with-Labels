@@ -12,7 +12,7 @@
             <property name="suppressDate" value="true"/>
         </commentGenerator>
 
-        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver" connectionURL="jdbc:mysql://localhost:3306/music?serverTimezone=UTC&amp;nullCatalogMeansCurrent=true" userId="root" password="cwq030120"/>
+        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver" connectionURL="jdbc:mysql://localhost:3306/music?serverTimezone=UTC&amp;nullCatalogMeansCurrent=true" userId="root" password="yourpassword"/>
 
         <javaTypeResolver>
             <property name="forceBigDecimals" value="false"/>
