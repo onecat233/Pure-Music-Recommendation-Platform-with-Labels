@@ -103,7 +103,4 @@ npm run serve
 - Access user perspective and explore features
 
 ## Maintenance and Contact
-
-### Project Status
-- Java Final Project
-- Waiting to be scored
+- Feel free to ask in Issues if there is any question!
